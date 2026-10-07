@@ -1,0 +1,5 @@
+Model,Language,Samples,Accuracy,Precision,Recall,F1
+XLM-R,Overall,1127,98.14,92.49,95.24,93.84
+XLM-R,English,1041,98.94,95.42,96.15,95.79
+XLM-R,Bangla,86,88.37,83.33,92.11,87.5
+BiLSTM,Overall,1127,97.6,95.48,88.1,91.64
